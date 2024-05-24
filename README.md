@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quynh 
-- 👀 I’m interested in learning Data Analytics 
-- 🌱 I’m currently pursuing Google Data Analytics Certificate
-- 📫 How to reach me: tranq4@spu.edu
+- 👀 I’m pursuing a Master's Degree in Business Analytics at Seattle University
+- 🌱 Currently taking the SQL for Data Analytics course on Datacamp
+- 📫 How to reach me: ntran12@seattleu.edu
 - 📫 LinkedIn profile: https://www.linkedin.com/in/quynh-tran-99599b1a9/ 
 
 <!---
