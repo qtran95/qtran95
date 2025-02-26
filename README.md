@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Quynh 
-- 👀 I’m pursuing a Master's Degree in Business Analytics at Seattle University
-- 🌱 Currently taking the SQL for Data Analytics course on Datacamp
-- 📫 How to reach me: ntran12@seattleu.edu
+- 👀 I’m a Master's graduate in Business Analytics from Seattle University
+- 🌱 AWS Certified Cloud and AI Practitioner
+- 📫 How to reach me: quynh.tran17@outlook.com
 - 📫 LinkedIn profile: https://www.linkedin.com/in/quynh-tran-99599b1a9/ 
 
 <!---
